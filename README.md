@@ -1,0 +1,2 @@
+# RubyClassMethod
+クラスメソッド
